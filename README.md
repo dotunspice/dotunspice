@@ -17,3 +17,6 @@ I build data projects that help businesses understand customer behavior, adverti
 
 **Goal**
 To become a professional Data Scientist solving real-world business problems with data.
+
+**Featured Project**
+- Ad Sales Analysis: Python-based analysis of advertising impact on sales (TV, Radio, Newspaper)
